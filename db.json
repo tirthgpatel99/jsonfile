@@ -1,39 +1,11 @@
-
- [
-  {
-    "country": "India", 
-    "password": "test@123", 
-    "name": "Tirth Patel", 
-    "contact": 9978170773
-  }, 
-  {
-    "country": "India", 
-    "password": "test@1234", 
-    "name": "Rajnikant Patel", 
-    "contact": 9978170774
-  }, 
-  {
-    "country": "India", 
-    "password": "test@1235", 
-    "name": "Priya Patel", 
-    "contact": 9978170775
-  }, 
-  {
-    "country": "India", 
-    "password": "test@1236", 
-    "name": "Hiral Patel", 
-    "contact": 9978170776
-  }, 
-  {
-    "country": "India", 
-    "password": "test@1237", 
-    "name": "Jalpa Patel", 
-    "contact": 9978170777
-  }, 
-  {
-    "country": "India", 
-    "password": "test@1238", 
-    "name": "Kishan Patel", 
-    "contact": 9978170778
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
